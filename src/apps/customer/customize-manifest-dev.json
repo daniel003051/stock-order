@@ -1,0 +1,12 @@
+{
+  "app": "51",
+  "scope": "ALL",
+  "desktop": {
+    "js": ["src/apps/customer/dev-server.js"],
+    "css": []
+  },
+  "mobile": {
+    "js": [],
+    "css": []
+  }
+}

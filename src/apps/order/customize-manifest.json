@@ -1,0 +1,12 @@
+{
+  "app": "54",
+  "scope": "ALL",
+  "desktop": {
+    "js": ["dist/order.js"],
+    "css": []
+  },
+  "mobile": {
+    "js": [],
+    "css": []
+  }
+}
